@@ -23,4 +23,11 @@ Run the script:
 ## 3.To check the version, run ./internsctl --version
 ![Alt text](Images/7.png)
 
+For NEXT Section after modifying code
+## Part A : To get the Cpu information- ./internsctl cpu getinfo
+![Alt text](Images/8.png)
+![Alt text](Images/9.png)
+
+
+
 
